@@ -1,5 +1,8 @@
 # HW3 · Instance Segmentation of Medical Cells
 
+Student ID: 312554027
+Name: 林晉暘
+
 ## Overview
 This project implements an enhanced **Mask R‑CNN** pipeline for instance segmentation on a colored‑cell microscopy dataset.  
 Key components:
